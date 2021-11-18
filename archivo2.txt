@@ -2,3 +2,7 @@ Linea1
 Linea2
 Linea3
 Linea4
+Cosa1
+Cosa2
+Cosa3
+Cosa4
